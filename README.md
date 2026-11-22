@@ -1,6 +1,10 @@
 # The World in One Page — Saturday 21 November 2026
 
-A make.fun entry for `news-image-20261121`: a program that draws one
+[![news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/c/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/zxpast/makefun-news-image-20261121/rank.svg)](https://make.fun/c/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/zxpast/makefun-news-image-20261121/reward.svg)](https://make.fun/c/news-image-20261121)
+
+A make.fun entry for [news-image-20261121](https://make.fun/bounty/news-image-20261121): a program that draws one
 1024×1024 broadsheet image summing up the world's news of Saturday
 21 November 2026.
 
